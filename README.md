@@ -146,6 +146,27 @@ Based on this analysis, organizations should consider:
 
 ---
 
+# Repository Structure
+
+```text
+Customer-Support-Ticket-Analysis-sql
+│
+├── README.md
+├── Customer_Support_Ticket_Analysis.sql
+├── customer_support_tickets.xlsx
+└── Screenshots/
+    ├── query1_Total_Tickets.png
+    ├── query2_Ticket_Status_Distribution.png
+    ├── query3_Ticket_By_Priority.png
+    ├── query4_Tickets_By_Type.png
+    ├── query5_Average_Customer_Satisfaction.png
+    ├── query6_Satisfaction_By_Support_Channel.png
+    ├── query8_Support_Channel_Used.png
+    ├── query9_Customer_By_Gender.png
+    └── query10_Average_Customer_By_Age.png
+```
+
+---
 
 # Files Included
 
